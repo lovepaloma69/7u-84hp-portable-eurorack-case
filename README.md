@@ -71,7 +71,12 @@ repository — please obtain them from the link above.
 
 ## License
 
-The original files in this repository (OpenSCAD `*.scad` and Python `*.py`) are
-my own work. A formal license is still to be chosen — until then, all rights
-reserved for these files. The underlying frame is kowend's work; refer to the
-original project for its terms.
+All original files in this repository are released under the **MIT License**
+(see [`LICENSE`](LICENSE)) — you are free to use, modify and further develop
+them, including commercially, as long as the copyright and license notice are
+kept.
+
+This covers *my* files only. The underlying Eurorack frame is kowend's work and
+is not included here; refer to the
+[original project](https://github.com/kowend/Eurorack_84HP_7U_case) for its
+terms.
