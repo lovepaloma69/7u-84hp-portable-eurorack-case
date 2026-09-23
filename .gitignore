@@ -1,0 +1,11 @@
+# Python virtual environment (large, regenerable)
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# OpenSCAD editor backups
+*.scad.bak
