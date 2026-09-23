@@ -71,10 +71,11 @@ repository — please obtain them from the link above.
 
 ## License
 
-All original files in this repository are released under the **MIT License**
-(see [`LICENSE`](LICENSE)) — you are free to use, modify and further develop
-them, including commercially, as long as the copyright and license notice are
-kept.
+The original files in this repository are licensed under
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+(see [`LICENSE`](LICENSE)). You are free to use, modify and further develop the
+work and share your versions — **as long as you give credit and do not use it
+for commercial purposes**.
 
 This covers *my* files only. The underlying Eurorack frame is kowend's work and
 is not included here; refer to the
