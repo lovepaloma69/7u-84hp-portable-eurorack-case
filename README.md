@@ -6,6 +6,10 @@ inside a wooden rack case. Everything is modeled parametrically in **OpenSCAD**
 and verified against the real frame geometry with **trimesh** cross-sections
 (no "just print and see" — parts are checked against measured geometry first).
 
+**Designed to fit:** the **RGC Cases 170/48H184** polypropylene case —
+<https://rgcases.com/cases-in-polypropylene/170-48h184.html> — which this whole
+mounting system is dimensioned around.
+
 > This project is an **accessory** built on top of **kowend's** open Eurorack
 > case design (see [Credits & Source](#credits--source)). This repository
 > contains **only my own original work** — brackets, rails/profiles, spacer,
@@ -59,6 +63,14 @@ STL (see below).
   *rigid* arm with a wide neck (push-to-open by tilting the frame flange), and
   the flex clip prints **upright** so it flexes in-plane rather than across
   layer lines. Teeth print flat (across layers) for strength.
+
+## Contributing
+
+**Collaboration and further development of the design are explicitly welcome!**
+Feel free to open an [issue](../../issues) for ideas, problems or measurements,
+or send a [pull request](../../pulls) with improvements, new variants or
+adaptations to other cases. Remixes and forks are encouraged — within the
+non-commercial terms of the license below.
 
 ## Credits & Source
 
